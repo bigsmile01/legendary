@@ -1,0 +1,4 @@
+legendary
+=========
+
+Holds Legendary Components
